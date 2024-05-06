@@ -12,3 +12,5 @@ to an ECM file, once it's completed a new ECM file will be created at the folder
  This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
  of the License, or (at your option) any later version.
+
+I, Filipe, do not have any participation in this project, I am placing it in this repository as an object of study in C and some extensions such as .ecm and .bin, I give full credit to Neill Corlett.
